@@ -44,11 +44,11 @@ a:hover {
 
 .aside {
     background-color: #ffffff !important;
-    font-size: 14px;
+    font-size: 13px;
     text-align: start;
     margin-bottom: 30px;
     padding: 20px;
-    border-left: #ffffff solid 30px;
+    font-family: 'Roboto', sans-serif;
 }
 
 footer {
@@ -103,16 +103,24 @@ p {
     justify-content: center;
 }
 
+.informacion {
+    border-left: #7da244 solid 20px;
+    padding: 5px 20px;
+}
+
 h1 {
-    background-color: #ffffff !important;
-    color: #000000;
+    background-color: #000000 !important;
+    color: #ffffff;
     height: 100px;
+    width: 240px;
     font-size: 3rem;
+    text-transform: uppercase;
     text-align: start;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    border-left: #ffffff solid 50px;
     letter-spacing: 5px;
+    margin-bottom: 40px;
+
 }
 
 h2 {
@@ -153,3 +161,4 @@ h5 {
     font-weight: 400;
     margin: 2rem;
 }
+
