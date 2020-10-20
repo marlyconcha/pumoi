@@ -108,6 +108,12 @@ p {
     padding: 5px 20px;
 }
 
+img {
+    display:block;
+    margin:auto;
+    height: 100%;
+}
+
 h1 {
     background-color: #000000 !important;
     color: #ffffff;
