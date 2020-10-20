@@ -87,13 +87,13 @@ p {
 }
 
 .img_content {
-        display: block;
-        margin: auto;
-        height: auto;
+    display: block;
+    margin: auto;
+    height: auto;
 }
 
 .button_pumoi_content {
-    display: flex; 
+    display: flex;
     justify-content: center;
 }
 
@@ -101,7 +101,7 @@ p {
     background-color: #2ac012 !important;
     color: #ffffff !important;
     width: 50%;
-    display: flex; 
+    display: flex;
     justify-content: center;
 }
 
@@ -144,7 +144,7 @@ h2 {
 
 h3 {
     color: #707070;
-    font-size: 1,5rem;
+    font-size: 1, 5rem;
     text-align: start;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -154,7 +154,7 @@ h3 {
 
 h4 {
     color: #707070;
-    font-size: 1,2rem;
+    font-size: 1, 2rem;
     text-align: start;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -163,10 +163,9 @@ h4 {
 
 h5 {
     color: #707070;
-    font-size: 1,5rem;
+    font-size: 1, 5rem;
     text-align: start;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     margin: 2rem;
 }
-
