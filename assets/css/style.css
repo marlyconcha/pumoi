@@ -87,10 +87,17 @@ p {
 }
 
 .img_content {
-    display: block;
-    margin: auto;
-    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex; 
+    justify-content: center;
     width: 100%;
+}
+
+.img_content_large {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 
 .button_pumoi_content {
